@@ -1,0 +1,1 @@
+alert("welcome to the world TOYOTA MOTOR where you can get your amazing car in different color!");
